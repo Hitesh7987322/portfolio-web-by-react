@@ -1,11 +1,14 @@
-# portfolio-web-by-react
-frontend assignment
 
-
+# DSFolio V1
 
 <center>
     <img src="/public/cover.png" alt="DSFolio" />
 </center>
+
+
+
+## Technologies Used
+<img  src="https://skillicons.dev/icons?i=html,css,react,tailwind,netlify&perline=7"/>
 
 ## Installation
 1. Clone the repository
