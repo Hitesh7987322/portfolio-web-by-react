@@ -1,8 +1,8 @@
 
-# DSFolio V1
+# portFolio website
 
 <center>
-    <img src="/public/cover.png" alt="DSFolio" />
+    <img src="/public/cover.png" alt="Portfolio-v1" />
 </center>
 
 
@@ -13,11 +13,11 @@
 ## Installation
 1. Clone the repository
     ```bash 
-    git clone https://github.com/hitesh95844/dsfolio-v1.git
+    git clone https://github.com/hitesh95844/portfolio-v1.git
     ```
 2. Change into the project directory
     ```bash
-    cd dsfolio-v1
+    cd portfolio-v1
     ```
 3. Install dependencies
     ```bash
